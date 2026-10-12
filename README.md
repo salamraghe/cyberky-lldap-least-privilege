@@ -31,9 +31,21 @@ This is **not** Windows AD Group Policy and not the `ad-user-lifecycle` repo. En
 
 - [Users: admin + analyst1](screenshots/01-users-admin-analyst1.png)
 - [Groups list includes soc-tier1-readonly](screenshots/02-groups-list.png)
+
+  ![Groups list includes soc-tier1-readonly](hero/02-groups-list.png)
+
 - [lldap_admin members: admin only](screenshots/03-lldap-admin-admin-only.png)
+
+  ![lldap_admin members: admin only](hero/03-lldap-admin-admin-only.png)
+
 - [Signed in as analyst1](screenshots/04-signed-in-as-analyst1.png)
+
+  ![Signed in as analyst1](hero/04-signed-in-as-analyst1.png)
+
 - [soc-tier1-readonly members: analyst1](screenshots/05-soc-tier1-readonly-members.png)
+
+  ![soc-tier1-readonly members: analyst1](hero/05-soc-tier1-readonly-members.png)
+
 
 ## What was built
 
