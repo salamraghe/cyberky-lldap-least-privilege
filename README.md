@@ -16,7 +16,7 @@ A least-privilege access request in LLDAP (CyberKy "IAM LDAP: Create Your First 
 - analyst1 could only read; could not create groups, move groups, or update things.
 - No admin authority or privileges unless admin assigned access. Membership drives privilege.
 
-Interview line (coach-written at his request, from his one-page IAM Labs doc): "In LLDAP I put analyst1 in a read-only group and logged in as him to prove he could only read, not create, move, or update groups. He had no admin rights because group membership decides privilege."
+Interview line: "In LLDAP I put analyst1 in a read-only group and logged in as him to prove he could only read, not create, move, or update groups. He had no admin rights because group membership decides privilege."
 
 ## Key screenshots
 
